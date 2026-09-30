@@ -1,5 +1,5 @@
 # UnArtiste
-
+# la palette et l'ambiance
 
 L’identité visuelle du projet repose sur une palette de couleurs volontairement restreinte, pensée pour renforcer l’ambiance claustrophobique, militaire et horrifique de la station spatiale détruite. Chaque couleur possède une fonction précise afin de garantir une cohérence artistique tout au long du développement.
 
