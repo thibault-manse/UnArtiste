@@ -16,7 +16,7 @@ Accentue la profondeur, les passages mystérieux et les zones non explorées.
 Rouge — Danger, alertes, signaux critiques.
 Couleur réservée aux situations menaçantes ou aux éléments interactifs à risque.
 
-🌑 Atmosphère visuelle & lumineuse
+Atmosphère visuelle & lumineuse
 La lumière joue un rôle essentiel dans l’expérience sensorielle du jeu. Elle contribue à la tension, à la lisibilité et à la narration environnementale.
 
 Zones sombres : espaces volontairement peu éclairés pour renforcer la peur de l’inconnu.
